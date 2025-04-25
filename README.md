@@ -39,6 +39,7 @@
 
 ## 📂 Estructura del Proyecto
 
+```bash
 calculadora-imc/
 ├── index.html                  # Página principal
 ├── js/
@@ -52,6 +53,7 @@ calculadora-imc/
 │       ├── overweightController.js # Listado de pacientes con sobrepeso
 │       ├── seeController.js    # Visualización de cantidad de pacientes
 │       └── validateData.js     # Validación de datos ingresados
+```
 
 ---
 ## 🚀 Cómo utilizar
